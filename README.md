@@ -1,6 +1,6 @@
 <!-- ЛОГОТИП: положите файл логотипа в репозиторий по пути assets/logo.png -->
 <p align="center">
-  <img src="assets/logo.png" alt="PearCMS" width="220" />
+  <img src="https://avatars.githubusercontent.com/u/288041123?s=400&u=bf9c071d7b724efd7ce151d8795def0347b59c3b&v=4" alt="PearCMS" width="220" />
 </p>
 
 <h1 align="center">PearCMS</h1>
